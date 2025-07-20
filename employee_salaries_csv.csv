@@ -1,0 +1,501 @@
+Experience,Education Level,Department,Location,Salary
+6,Master,Operations,Chicago,63599.17
+19,Master,HR,Los Angeles,80142.17
+28,Bachelor,Finance,New York,102296.65
+14,Bachelor,Sales,Boston,64336.46
+10,Bachelor,Sales,Austin,60486.58
+7,High School,IT,Boston,55949.08
+28,PhD,Legal,San Francisco,110698.1
+20,High School,Engineering,San Francisco,78372.24
+6,High School,Operations,Seattle,55984.93
+25,Master,Engineering,Chicago,84469.71
+18,Bachelor,HR,San Francisco,84058.07
+22,PhD,Legal,New York,103924.25
+10,Master,IT,Boston,75303.87
+10,High School,Engineering,Boston,61001.8
+23,Bachelor,Finance,Seattle,77309.3
+20,Master,Sales,Los Angeles,78653.76
+3,Bachelor,HR,Los Angeles,54927.0
+7,Master,IT,Austin,64609.12
+23,Bachelor,Engineering,Seattle,88160.05
+2,High School,Operations,Denver,47897.1
+21,PhD,Finance,Austin,103092.36
+20,High School,Finance,Denver,81160.84
+1,PhD,Engineering,Los Angeles,60113.98
+23,Bachelor,Sales,Seattle,80148.26
+11,Master,Engineering,Denver,76222.67
+29,High School,HR,Seattle,87364.1
+5,PhD,Engineering,Seattle,66467.7
+1,High School,Finance,Los Angeles,48261.06
+27,PhD,IT,Austin,98935.62
+20,High School,Engineering,Austin,73581.05
+0,PhD,Sales,Seattle,61862.54
+11,PhD,Legal,San Francisco,74788.39
+25,Bachelor,IT,Chicago,101918.07
+21,PhD,Operations,Los Angeles,98912.62
+28,Bachelor,Marketing,Chicago,97365.86
+11,PhD,Engineering,Chicago,77472.15
+24,Master,Sales,Austin,92940.45
+16,Master,IT,Austin,75162.61
+26,Master,Sales,San Francisco,106085.99
+26,PhD,Operations,Chicago,102821.7
+30,Bachelor,Finance,Chicago,104440.03
+9,Bachelor,Sales,Seattle,62585.29
+27,PhD,IT,Austin,90509.97
+27,Master,Sales,Chicago,103522.32
+15,Master,Sales,Boston,84225.13
+14,Bachelor,Sales,San Francisco,70913.01
+29,Master,HR,Denver,105782.58
+29,High School,HR,Boston,90920.56
+14,Bachelor,Finance,Boston,69907.57
+29,Master,Engineering,Denver,104550.74
+18,Bachelor,Sales,Los Angeles,86957.57
+11,High School,Operations,Los Angeles,60618.09
+22,Bachelor,Engineering,San Francisco,79778.1
+19,Bachelor,Operations,Boston,72974.87
+24,Bachelor,Engineering,Chicago,82359.95
+2,Bachelor,Finance,Austin,52528.17
+4,High School,Sales,San Francisco,50592.67
+18,PhD,Sales,Seattle,89658.34
+6,Bachelor,Marketing,Denver,59658.54
+20,Bachelor,Operations,Boston,79059.32
+8,Master,Engineering,San Francisco,71313.11
+6,Bachelor,Engineering,New York,56646.63
+17,Master,Legal,New York,85869.92
+3,PhD,Legal,Los Angeles,64307.85
+24,High School,HR,Denver,76872.98
+27,High School,Marketing,Austin,95033.87
+13,PhD,IT,Chicago,88921.25
+17,High School,Legal,Austin,78710.1
+25,PhD,IT,Austin,96784.87
+8,PhD,HR,Austin,70069.27
+25,PhD,HR,Denver,93119.81
+20,High School,HR,Austin,76820.66
+1,Master,Operations,Seattle,57097.99
+19,PhD,Operations,Denver,86991.53
+27,Bachelor,Finance,Seattle,92026.11
+14,High School,Finance,Denver,68818.84
+27,PhD,HR,Los Angeles,92333.3
+6,PhD,Marketing,San Francisco,68588.09
+11,Bachelor,Engineering,New York,64172.62
+28,Master,Operations,Austin,91226.04
+7,Master,Marketing,Los Angeles,65992.55
+14,Master,Sales,San Francisco,82489.14
+2,PhD,Operations,New York,63343.96
+13,PhD,Operations,Boston,77728.15
+16,PhD,Finance,Chicago,79031.68
+3,High School,Engineering,Seattle,49740.96
+17,Bachelor,Engineering,Boston,74510.35
+7,PhD,Legal,Denver,72657.84
+3,Bachelor,IT,New York,57141.05
+1,Bachelor,IT,Boston,51968.72
+29,Master,IT,Chicago,108252.63
+5,High School,IT,Los Angeles,53386.1
+21,PhD,Sales,New York,83588.3
+9,Master,Sales,Boston,70105.3
+3,Master,Operations,Seattle,59916.0
+21,PhD,HR,Seattle,100781.12
+28,Bachelor,Finance,San Francisco,88699.03
+30,Master,Finance,Boston,108699.8
+17,Bachelor,IT,Austin,80325.18
+25,High School,Operations,Boston,70675.24
+11,Bachelor,Legal,Los Angeles,72666.47
+1,High School,Marketing,New York,45345.4
+9,Bachelor,HR,New York,64461.58
+29,Master,Operations,Los Angeles,110182.34
+3,Master,HR,Boston,59007.26
+13,High School,HR,Los Angeles,70264.54
+30,PhD,HR,Chicago,97587.76
+15,High School,Operations,Denver,77278.95
+14,High School,IT,Los Angeles,60387.17
+7,Bachelor,Finance,Seattle,66082.58
+13,Bachelor,Finance,Los Angeles,74308.59
+22,High School,IT,New York,72141.09
+27,Master,HR,Seattle,89606.23
+24,Bachelor,Marketing,New York,82279.61
+29,PhD,Engineering,San Francisco,89086.31
+7,Bachelor,Operations,Austin,64648.95
+20,Bachelor,Engineering,New York,84481.54
+15,PhD,Legal,Seattle,84149.3
+12,High School,IT,San Francisco,69586.85
+17,PhD,Marketing,New York,80924.55
+14,High School,Operations,Chicago,69656.18
+20,High School,IT,Los Angeles,75825.52
+23,High School,HR,Austin,73989.2
+25,PhD,Finance,New York,109553.31
+24,High School,Engineering,San Francisco,87729.24
+27,Master,Sales,Chicago,84707.51
+27,PhD,Sales,Boston,97819.15
+27,Master,Marketing,San Francisco,90057.54
+12,High School,HR,Los Angeles,61033.99
+8,Bachelor,Legal,San Francisco,63877.96
+28,High School,Engineering,Chicago,98877.47
+14,Master,HR,San Francisco,75389.62
+12,Master,Engineering,Chicago,73535.38
+0,PhD,Marketing,New York,59860.73
+24,Bachelor,Marketing,Denver,88050.07
+6,PhD,Legal,Chicago,66561.17
+8,Master,Sales,Chicago,69115.15
+23,High School,HR,Austin,85856.17
+0,Bachelor,Operations,Chicago,48685.38
+11,High School,Sales,Chicago,61957.78
+7,High School,HR,Boston,55276.47
+23,Bachelor,Sales,Denver,89109.24
+30,PhD,Operations,New York,109575.79
+10,High School,Finance,Los Angeles,62083.09
+18,Master,Finance,Austin,78334.75
+16,High School,Legal,Boston,62671.93
+7,Bachelor,Finance,Seattle,62268.43
+2,Bachelor,Finance,Denver,56137.24
+2,Bachelor,IT,New York,55418.99
+0,PhD,Engineering,New York,61861.39
+26,High School,IT,Seattle,95745.06
+4,PhD,IT,Los Angeles,65372.64
+9,PhD,Legal,Chicago,77023.09
+6,Bachelor,IT,Boston,56594.36
+25,Bachelor,Finance,San Francisco,82102.39
+8,PhD,Operations,Austin,69535.65
+27,High School,Legal,San Francisco,90285.0
+6,Master,Legal,Seattle,64020.08
+8,PhD,Marketing,New York,73535.86
+7,High School,Legal,Los Angeles,59352.84
+11,Bachelor,Marketing,New York,64081.28
+1,Bachelor,Legal,Austin,54697.39
+0,High School,Engineering,New York,46607.88
+15,Master,Finance,New York,78258.96
+22,Bachelor,Legal,Austin,80515.79
+22,Bachelor,Finance,Boston,86566.68
+29,Bachelor,Finance,Boston,92492.84
+23,High School,Sales,Austin,69213.27
+4,PhD,Legal,Los Angeles,64375.91
+2,Bachelor,HR,Seattle,52022.01
+11,PhD,Sales,Denver,74211.87
+7,Master,HR,New York,66989.72
+21,Bachelor,Finance,Los Angeles,74591.88
+26,Bachelor,Finance,New York,91899.52
+2,Master,Sales,Denver,60273.37
+0,Bachelor,Sales,Seattle,51347.24
+2,PhD,HR,Boston,60813.46
+4,High School,Marketing,Los Angeles,51914.66
+14,PhD,HR,Chicago,84512.68
+13,High School,Sales,Chicago,66424.33
+2,High School,Operations,Denver,49803.01
+0,PhD,Sales,Chicago,60629.24
+4,PhD,Operations,Boston,68810.19
+25,PhD,Engineering,Denver,88539.86
+22,PhD,Sales,Boston,86685.0
+30,Master,Engineering,Seattle,103835.12
+13,Bachelor,Marketing,New York,73286.82
+6,High School,HR,Seattle,53594.39
+26,PhD,Operations,Seattle,108819.81
+8,PhD,HR,Boston,77664.82
+14,PhD,Engineering,Denver,85043.27
+14,Master,Operations,Denver,83347.38
+25,PhD,HR,Chicago,98993.75
+9,PhD,Sales,San Francisco,76513.71
+27,PhD,Finance,New York,109893.8
+12,Bachelor,Engineering,Boston,65846.32
+18,Master,HR,Chicago,80035.29
+30,PhD,Engineering,Los Angeles,96086.14
+6,High School,IT,San Francisco,55435.95
+16,High School,Engineering,San Francisco,65820.91
+19,High School,Operations,Boston,67008.31
+28,Master,IT,Austin,105915.2
+3,Master,Legal,New York,60083.9
+29,High School,Operations,San Francisco,81267.17
+4,PhD,Finance,Boston,67073.31
+22,Master,IT,Boston,87425.87
+6,High School,Legal,Chicago,54658.39
+12,High School,Sales,Los Angeles,57324.51
+14,PhD,Engineering,Austin,82251.54
+10,Bachelor,HR,New York,63427.9
+28,Master,Marketing,Denver,110626.4
+3,PhD,Engineering,Seattle,62452.64
+12,High School,Legal,Los Angeles,58531.08
+6,High School,Engineering,Los Angeles,54952.15
+26,PhD,Finance,Chicago,104682.84
+18,Master,Sales,Denver,83889.14
+21,Bachelor,Marketing,San Francisco,80639.65
+27,Bachelor,IT,San Francisco,80404.69
+1,High School,IT,Chicago,46209.44
+9,Master,IT,Boston,68198.83
+12,Bachelor,Legal,San Francisco,70150.38
+29,Master,Operations,Austin,89244.22
+24,Master,Operations,New York,97961.27
+20,High School,HR,Los Angeles,75488.87
+5,Bachelor,Marketing,Los Angeles,60418.87
+27,PhD,IT,Austin,106049.28
+27,High School,Operations,Denver,77894.42
+11,Bachelor,Legal,San Francisco,61436.73
+11,Bachelor,HR,Los Angeles,61865.47
+19,Bachelor,Sales,Seattle,74995.74
+29,Bachelor,HR,Denver,100467.2
+29,Bachelor,Operations,New York,107719.55
+10,Master,Finance,New York,73475.68
+25,High School,Legal,Los Angeles,85827.99
+22,Master,Finance,Chicago,93814.92
+27,PhD,IT,Denver,96975.41
+24,Bachelor,Finance,Los Angeles,81021.41
+6,High School,IT,Chicago,57277.61
+29,Bachelor,IT,Los Angeles,91661.04
+0,High School,Operations,Seattle,44592.88
+0,Master,Finance,Denver,57975.63
+24,High School,IT,Boston,86156.07
+26,PhD,Marketing,New York,102388.43
+29,PhD,Sales,Los Angeles,111972.07
+24,High School,HR,Seattle,90993.54
+19,High School,HR,Chicago,75764.19
+12,High School,Operations,Chicago,61850.79
+8,High School,Finance,New York,60585.46
+2,PhD,Finance,Austin,65445.93
+6,Bachelor,IT,Los Angeles,59451.35
+5,High School,Legal,Denver,53537.36
+7,High School,Engineering,San Francisco,58210.68
+26,PhD,IT,Chicago,99816.13
+8,PhD,Sales,Denver,72727.09
+29,Master,Marketing,Denver,106023.45
+4,High School,HR,Boston,53770.66
+0,Master,IT,Denver,57441.62
+18,PhD,Engineering,Denver,82159.59
+9,PhD,Engineering,Boston,74730.53
+11,Bachelor,IT,Chicago,70720.24
+23,High School,Operations,Denver,88425.93
+14,Master,HR,Austin,77031.29
+26,PhD,Operations,Austin,111595.72
+21,PhD,Marketing,Seattle,91091.51
+23,Master,Engineering,Boston,99507.2
+8,Bachelor,Engineering,Seattle,65900.5
+19,PhD,Sales,Boston,89815.76
+16,High School,Marketing,Los Angeles,68034.96
+29,PhD,Engineering,Los Angeles,102991.81
+16,High School,Marketing,Denver,67536.31
+25,Master,HR,San Francisco,90820.58
+19,High School,Finance,Los Angeles,77551.77
+11,Master,Engineering,San Francisco,74523.69
+29,High School,Sales,Los Angeles,95851.03
+6,Master,HR,New York,67896.42
+1,High School,IT,Los Angeles,45862.12
+2,Bachelor,Marketing,Seattle,55974.94
+16,High School,IT,Chicago,68765.07
+4,High School,Operations,Denver,52756.66
+16,Bachelor,HR,Seattle,70301.26
+23,PhD,IT,Chicago,92489.61
+16,PhD,Legal,Austin,92333.62
+26,High School,Legal,Seattle,81627.02
+16,Bachelor,Engineering,Austin,78857.33
+1,High School,Marketing,San Francisco,48264.23
+1,Master,Finance,San Francisco,58322.65
+27,Master,HR,New York,86740.66
+21,High School,Engineering,Los Angeles,77657.81
+22,PhD,Sales,Seattle,84133.65
+4,PhD,Operations,Austin,65263.99
+0,High School,Marketing,Chicago,45802.52
+0,High School,HR,San Francisco,47161.79
+18,Master,Legal,Los Angeles,78431.22
+29,PhD,HR,San Francisco,101773.6
+1,High School,Finance,Chicago,48676.32
+20,Master,Legal,Los Angeles,88130.47
+11,PhD,Finance,Los Angeles,76161.28
+25,Bachelor,Sales,Austin,86471.28
+5,Master,Operations,Austin,61358.18
+22,PhD,Sales,Seattle,88371.32
+3,PhD,Engineering,Seattle,67308.63
+22,Master,Engineering,Boston,91719.32
+10,Bachelor,Sales,Denver,67214.61
+23,Master,Operations,Boston,93697.92
+26,PhD,Sales,New York,95355.29
+16,High School,Operations,San Francisco,68099.22
+30,High School,Operations,Seattle,97143.67
+5,Master,IT,Austin,66334.94
+23,PhD,Legal,Chicago,97894.69
+4,High School,Marketing,Austin,51740.71
+19,PhD,Operations,San Francisco,85288.64
+1,Master,Finance,Boston,58179.11
+5,High School,Operations,Austin,55470.9
+21,PhD,Operations,Denver,88075.06
+10,High School,Operations,New York,64151.35
+30,Master,IT,San Francisco,89695.66
+15,PhD,Legal,Boston,91888.47
+15,High School,IT,Denver,77612.41
+0,Master,Engineering,Chicago,55406.84
+8,High School,IT,Boston,58339.01
+27,High School,Finance,Los Angeles,91962.93
+26,Bachelor,Finance,Denver,99357.18
+5,Bachelor,IT,Denver,57181.35
+15,Master,Legal,New York,82550.98
+28,Bachelor,Sales,San Francisco,102551.59
+2,Master,Marketing,Chicago,58601.58
+19,Bachelor,Legal,New York,74503.78
+27,High School,IT,Boston,95497.1
+26,Master,Operations,New York,101027.0
+3,Master,HR,Denver,59870.49
+18,High School,Marketing,San Francisco,69988.35
+25,Master,Marketing,Seattle,91139.25
+2,Master,Finance,New York,59447.6
+30,Bachelor,Marketing,Los Angeles,105675.77
+18,Master,IT,New York,84630.6
+19,PhD,Operations,Boston,85439.48
+6,High School,Operations,Boston,57109.27
+19,Bachelor,Engineering,Chicago,81037.22
+8,Bachelor,Operations,Boston,63339.87
+0,PhD,Legal,Austin,60118.72
+7,High School,Operations,San Francisco,54272.19
+6,High School,Finance,San Francisco,53665.35
+17,Bachelor,Operations,Seattle,67985.14
+7,Master,Engineering,Seattle,62098.15
+0,Bachelor,HR,San Francisco,48114.49
+10,High School,IT,Los Angeles,62423.07
+27,PhD,Finance,Seattle,91716.14
+24,Bachelor,Legal,Chicago,88053.66
+24,High School,HR,Boston,87484.76
+17,Bachelor,Finance,San Francisco,76509.92
+22,Master,Sales,Denver,96135.56
+30,Bachelor,Marketing,Seattle,94785.42
+29,Bachelor,Sales,San Francisco,93810.57
+9,High School,Operations,Austin,59325.25
+2,High School,HR,New York,47150.68
+6,High School,Operations,Boston,53920.22
+27,Bachelor,Marketing,San Francisco,88090.28
+15,Master,Finance,New York,76869.96
+25,PhD,Marketing,Seattle,104730.16
+15,PhD,Engineering,New York,87234.52
+24,High School,Marketing,Boston,79370.13
+19,High School,Engineering,San Francisco,72102.16
+27,Bachelor,Marketing,Austin,89453.7
+16,PhD,IT,Los Angeles,79379.01
+1,High School,Engineering,Seattle,45352.87
+0,Master,HR,San Francisco,56826.23
+15,Master,Operations,Boston,79305.85
+29,High School,Legal,Seattle,78268.85
+11,High School,Operations,Chicago,66660.05
+4,PhD,Sales,New York,68553.94
+4,PhD,Operations,Los Angeles,66591.73
+26,Bachelor,Finance,Boston,82268.46
+22,PhD,IT,Chicago,91809.41
+8,Master,Marketing,Denver,72429.6
+8,Master,Sales,San Francisco,70994.88
+2,High School,Finance,Austin,49913.41
+18,PhD,Finance,Seattle,83112.05
+15,Bachelor,Engineering,New York,68669.51
+15,Master,Operations,Seattle,83748.86
+2,Master,HR,Los Angeles,57259.91
+19,Bachelor,Legal,San Francisco,82871.1
+23,Bachelor,HR,Seattle,81754.76
+21,Master,Sales,New York,92228.72
+23,Master,IT,San Francisco,79226.83
+0,Bachelor,HR,Seattle,50471.16
+23,Master,Marketing,Austin,89179.27
+19,High School,HR,Boston,77760.16
+10,High School,Sales,San Francisco,59084.51
+16,Bachelor,Legal,Boston,75798.53
+7,PhD,HR,Denver,69971.88
+3,Bachelor,Marketing,San Francisco,52684.21
+5,Bachelor,Engineering,Austin,56531.34
+7,PhD,IT,Boston,69129.66
+19,PhD,Sales,Chicago,91020.55
+29,PhD,Engineering,New York,91781.24
+2,High School,Engineering,Chicago,49956.25
+15,Master,Engineering,Seattle,80130.33
+29,High School,Finance,Austin,84510.79
+24,Master,IT,Chicago,88743.72
+2,High School,Legal,San Francisco,49643.69
+24,Master,Operations,Seattle,99469.75
+28,High School,IT,Seattle,87633.94
+17,PhD,Finance,Chicago,82191.26
+13,Bachelor,Operations,Denver,69253.24
+17,High School,IT,Chicago,78267.26
+1,Master,Engineering,Denver,57854.73
+21,PhD,Sales,Austin,84173.14
+2,High School,Operations,New York,48929.82
+15,High School,Marketing,Chicago,72961.19
+28,PhD,Marketing,Los Angeles,110933.66
+8,High School,HR,Denver,58983.13
+3,Bachelor,Operations,Chicago,55851.79
+0,High School,Sales,Boston,45083.68
+3,Bachelor,Legal,San Francisco,53260.88
+0,Bachelor,Finance,Los Angeles,49497.97
+13,PhD,Engineering,Los Angeles,84202.87
+20,High School,HR,Denver,83218.56
+15,PhD,Marketing,Boston,83583.17
+19,High School,Finance,Boston,82395.4
+23,High School,Finance,Seattle,83145.91
+7,Master,Engineering,Denver,61500.4
+6,High School,Legal,New York,57210.86
+2,PhD,Legal,San Francisco,62146.13
+16,Bachelor,Operations,Austin,73629.27
+0,High School,Marketing,Los Angeles,44825.79
+15,Master,Legal,Austin,76641.36
+11,PhD,Sales,Chicago,79788.19
+26,High School,Legal,Chicago,74202.66
+18,PhD,Finance,Austin,93262.75
+21,Master,Engineering,Chicago,94795.81
+22,Master,Sales,New York,81580.13
+21,PhD,Operations,Boston,96331.56
+13,High School,Marketing,Chicago,70064.47
+29,Bachelor,Operations,Seattle,104073.04
+5,Master,Finance,Chicago,66074.65
+5,High School,Sales,San Francisco,53628.56
+12,High School,Sales,New York,60880.39
+18,Bachelor,Sales,San Francisco,73914.15
+21,Master,Finance,San Francisco,79363.01
+7,Master,Finance,Seattle,68141.61
+26,High School,Operations,New York,93458.53
+26,High School,HR,New York,80382.42
+1,Bachelor,Operations,Denver,51941.82
+20,Bachelor,Marketing,New York,86262.94
+29,Master,Engineering,New York,97616.01
+0,PhD,Sales,New York,60044.92
+27,Master,HR,Seattle,102892.3
+14,High School,Engineering,Chicago,64930.96
+0,Master,HR,Denver,56471.35
+4,PhD,Legal,San Francisco,68027.23
+27,Bachelor,Legal,New York,89308.61
+28,PhD,IT,Los Angeles,111622.73
+15,PhD,Legal,Chicago,80858.88
+18,PhD,Operations,Chicago,88404.23
+3,Bachelor,Legal,San Francisco,56316.48
+2,PhD,Finance,Seattle,63629.87
+16,PhD,Sales,Austin,84393.9
+16,PhD,Operations,Austin,82333.48
+11,High School,Engineering,Chicago,56681.29
+27,PhD,IT,Boston,113047.39
+29,Bachelor,IT,Boston,108136.38
+28,PhD,IT,San Francisco,109288.66
+13,PhD,Engineering,Austin,84222.1
+20,Bachelor,Engineering,Chicago,83469.66
+5,PhD,Engineering,Seattle,66251.31
+2,Bachelor,Engineering,Austin,54598.74
+27,PhD,IT,Chicago,89619.23
+8,Bachelor,IT,Chicago,59626.22
+4,PhD,HR,New York,66423.9
+23,PhD,Operations,Seattle,96062.74
+28,High School,Sales,New York,79278.1
+16,High School,Legal,San Francisco,70600.07
+13,PhD,Legal,New York,82330.31
+20,PhD,Finance,Los Angeles,82200.08
+30,Master,IT,New York,115288.53
+2,Bachelor,Finance,Los Angeles,55299.88
+27,Master,Operations,Austin,88868.58
+0,High School,Operations,Boston,46769.47
+19,High School,Finance,Denver,79695.38
+30,High School,IT,Denver,78001.88
+28,High School,Finance,Chicago,79401.48
+20,PhD,Legal,Denver,95831.74
+22,High School,HR,Los Angeles,69860.98
+0,PhD,Legal,Seattle,58630.09
+2,PhD,Marketing,New York,64172.38
+17,High School,IT,Los Angeles,79077.46
+24,High School,IT,Seattle,86544.73
+9,Bachelor,Sales,Boston,67454.78
+30,Master,Engineering,Denver,90062.02
+21,High School,Marketing,Boston,83259.99
+25,Bachelor,Operations,Denver,100075.51
+2,Bachelor,IT,New York,55409.32
+7,Master,Finance,San Francisco,66832.48
+13,PhD,Marketing,New York,84129.89
+23,High School,Sales,Austin,70590.58
+17,Master,Operations,Los Angeles,83247.33
+14,High School,Engineering,Chicago,64223.82
+21,Bachelor,Engineering,San Francisco,80084.59
+22,Bachelor,Sales,New York,94591.92
+1,PhD,Sales,Seattle,62730.19
